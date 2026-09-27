@@ -28,3 +28,51 @@
   command=git clone https://github.com/ThomasDickey/xterm-snapshots.git
   type=source
 }
+{
+  app=6
+  name_app[pcmanfm]
+  command=git clone https://github.com/lxde/pcmanfm.git
+  type=source
+}
+{
+  app=7
+  name_app[chromium]
+  command=git clone https://chromium.googlesource.com/chromium/src.git
+  type=source
+}
+{
+  app=8
+  name_app[vscode]
+  command=git clone https://github.com/VSCodium/vscodium.git
+  type=source
+}
+{
+  app=9
+  name_app[rofi]
+  command=git clone https://github.com/davatorium/rofi.git
+  type=source
+}
+{
+  app=10
+  name_app[feh]
+  command=git clone https://github.com/derf/feh.git
+  type=source
+}
+{
+  app=11
+  name_app[fastfetch]
+  command=git clone https://github.com/fastfetch-cli/fastfetch.git
+  type=source
+}
+{
+  app=12
+  name_app[neovim]
+  command=git clone https://github.com/neovim/neovim.git
+  type=source
+}
+{
+  app=13
+  name_app[tint2]
+  command=git clone https://gitlab.com/o210/tint2.git
+  type=source
+}
