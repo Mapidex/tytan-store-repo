@@ -1,0 +1,30 @@
+{
+  app=1
+  name_app[neofetch]
+  command=git clone https://github.com/dylanaraps/neofetch.git
+  type=script
+}
+{
+  app=2
+  name_app[htop]
+  command=git clone https://github.com/htop-dev/htop.git
+  type=source
+}
+{
+  app=3
+  name_app[xorg]
+  command=git clone https://gitlab.freedesktop.org/xorg/xserver.git
+  type=source
+}
+{
+  app=4
+  name_app[openbox]
+  command=git clone https://github.com/danakj/openbox.git
+  type=source
+}
+{
+  app=5
+  name_app[xterm]
+  command=git clone https://github.com/ThomasDickey/xterm-snapshots.git
+  type=source
+}
