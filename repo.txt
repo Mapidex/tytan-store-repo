@@ -1,78 +1,78 @@
 {
   app=1
   name_app[neofetch]
-  command=git clone https://github.com/dylanaraps/neofetch.git
+  command=wget https://github.com/dylanaraps/neofetch/archive/refs/heads/master.tar.gz
   type=script
 }
 {
   app=2
   name_app[htop]
-  command=git clone https://github.com/htop-dev/htop.git
+  command=wget https://github.com/htop-dev/htop/archive/refs/heads/main.tar.gz
   type=source
 }
 {
   app=3
   name_app[xorg]
-  command=git clone https://gitlab.freedesktop.org/xorg/xserver.git
+  command=wget https://gitlab.freedesktop.org/xorg/xserver/-/archive/master/xserver-master.tar.gz
   type=source
 }
 {
   app=4
   name_app[openbox]
-  command=git clone https://github.com/danakj/openbox.git
+  command=wget https://github.com/danakj/openbox/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=5
   name_app[xterm]
-  command=git clone https://github.com/ThomasDickey/xterm-snapshots.git
+  command=wget https://github.com/ThomasDickey/xterm-snapshots/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=6
   name_app[pcmanfm]
-  command=git clone https://github.com/lxde/pcmanfm.git
+  command=wget https://github.com/lxde/pcmanfm/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=7
   name_app[chromium]
-  command=git clone https://chromium.googlesource.com/chromium/src.git
+  command=wget https://chromium.googlesource.com/chromium/src/+archive/refs/heads/main.tar.gz
   type=source
 }
 {
   app=8
   name_app[vscode]
-  command=git clone https://github.com/VSCodium/vscodium.git
+  command=wget https://github.com/VSCodium/vscodium/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=9
   name_app[rofi]
-  command=git clone https://github.com/davatorium/rofi.git
+  command=wget https://github.com/davatorium/rofi/archive/refs/heads/next.tar.gz
   type=source
 }
 {
   app=10
   name_app[feh]
-  command=git clone https://github.com/derf/feh.git
+  command=wget https://github.com/derf/feh/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=11
   name_app[fastfetch]
-  command=git clone https://github.com/fastfetch-cli/fastfetch.git
+  command=wget https://github.com/fastfetch-cli/fastfetch/archive/refs/heads/dev.tar.gz
   type=source
 }
 {
   app=12
   name_app[neovim]
-  command=git clone https://github.com/neovim/neovim.git
+  command=wget https://github.com/neovim/neovim/archive/refs/heads/master.tar.gz
   type=source
 }
 {
   app=13
   name_app[tint2]
-  command=git clone https://gitlab.com/o210/tint2.git
+  command=wget https://gitlab.com/o210/tint2/-/archive/master/tint2-master.tar.gz
   type=source
 }
